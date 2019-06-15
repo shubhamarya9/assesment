@@ -1,0 +1,27 @@
+.avatar-img {
+  border-radius: 50%;
+  border: 2px solid rgb(171, 171, 171);
+  height: 80px;
+}
+.container {
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  border-bottom: 2px solid rgb(171, 171, 171);
+  padding: 0% 0% 2% 2%;
+}
+.info {
+  flex: 1;
+  padding-left: 2%;
+}
+.info p {
+  color: grey;
+  padding-left: 2%;
+}
+.avatar-div {
+  padding-top: 2%;
+}
+.search {
+  width: 100%;
+  border: none;
+}
